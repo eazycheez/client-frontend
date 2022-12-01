@@ -1,0 +1,11 @@
+/home/ashlesh/Desktop/eazycheez/eazycheez-client-frontend/build/linux/x64/debug/bundle/frontend
+/home/ashlesh/Desktop/eazycheez/eazycheez-client-frontend/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/ashlesh/Desktop/eazycheez/eazycheez-client-frontend/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/ashlesh/Desktop/eazycheez/eazycheez-client-frontend/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/ashlesh/Desktop/eazycheez/eazycheez-client-frontend/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/ashlesh/Desktop/eazycheez/eazycheez-client-frontend/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/ashlesh/Desktop/eazycheez/eazycheez-client-frontend/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/ashlesh/Desktop/eazycheez/eazycheez-client-frontend/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/ashlesh/Desktop/eazycheez/eazycheez-client-frontend/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/ashlesh/Desktop/eazycheez/eazycheez-client-frontend/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/ashlesh/Desktop/eazycheez/eazycheez-client-frontend/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
